@@ -1,2 +1,2 @@
 # CleanTemp-Windows
-Cleans TEMP directory in Windows
+Cleans TEMP directory in Windows and logs results
